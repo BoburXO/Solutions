@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Solutions App</title>
+        <title>Solutions App with bobur and abdurazzoq</title>
         <meta
           name='description'
           content='Первая интеллектуальная платформа для подготовки к тестам Talent Q'
